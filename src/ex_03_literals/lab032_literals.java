@@ -1,4 +1,4 @@
-package ex_02_java_basics;
+package ex_03_literals;
 
 public class lab032_literals {
     public static void main(String[] args) {
@@ -10,8 +10,8 @@ public class lab032_literals {
         //octal base-->8
         int octal= 0101;//in decimal 0101=65
 
-        //hexa decimal literals
-        int hex=1001;
+        //hexadecimal decimal literals
+        int hex= 0Xface;
         //base 16 color combination are in hex-#289745
 
 
