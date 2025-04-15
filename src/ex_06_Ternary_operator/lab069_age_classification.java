@@ -7,6 +7,10 @@ public class lab069_age_classification {
         //senior>65
         //minor<18
         //adult>18
+
+        //string result=(age<18)?Y(minor):N(adult or senior)
+        //=>((age<65)?"adult":"senior")
+
         String result=(age<18)?"minor":((age<65)?"adult":"senior");
         System.out.println(result);
     }
