@@ -1,4 +1,4 @@
-package ex_019_oops_single_inheritance;
+package ex_019_oops_inheritance;
 
 public class son extends father {
     void bhk3(){

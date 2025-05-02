@@ -1,4 +1,4 @@
-package ex_019_oops_single_inheritance;
+package ex_019_oops_inheritance;
 
 public class common_To_All_Test {
 

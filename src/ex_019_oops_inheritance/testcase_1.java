@@ -1,4 +1,4 @@
-package ex_019_oops_single_inheritance;
+package ex_019_oops_inheritance;
 
 public class testcase_1  extends common_To_All_Test{
     void runningTC1(){
