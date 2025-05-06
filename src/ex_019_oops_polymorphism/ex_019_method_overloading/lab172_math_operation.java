@@ -1,4 +1,4 @@
-package ex_019_oops_inheritance.ex_019_method_overloading;
+package ex_019_oops_polymorphism.ex_019_method_overloading;
 
 public class lab172_math_operation {
     int add(int a,int b){

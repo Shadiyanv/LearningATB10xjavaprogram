@@ -1,4 +1,4 @@
-package ex_019_oops_inheritance;
+package ex_18_oops_inheritance.ex_18_oops_multilevel_inheritance;
 
 public class grand_father {
     void home(){

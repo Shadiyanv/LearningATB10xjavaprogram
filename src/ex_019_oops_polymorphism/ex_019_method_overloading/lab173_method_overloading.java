@@ -1,4 +1,4 @@
-package ex_019_oops_inheritance.ex_019_method_overloading;
+package ex_019_oops_polymorphism.ex_019_method_overloading;
 
 public class lab173_method_overloading {
     public static void main(String[] args) {

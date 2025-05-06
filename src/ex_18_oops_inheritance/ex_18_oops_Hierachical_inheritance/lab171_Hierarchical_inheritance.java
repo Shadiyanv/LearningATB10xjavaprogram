@@ -1,4 +1,4 @@
-package ex_019_oops_inheritance;
+package ex_18_oops_inheritance.ex_18_oops_Hierachical_inheritance;
 
 public class lab171_Hierarchical_inheritance {
     public static void main(String[] args) {
