@@ -1,4 +1,4 @@
-package ex_21_oops_constructor;
+package ex_21_oops_constructor.car_model;
 
 public class car {
     String name;
