@@ -5,7 +5,4 @@ public class lab007_comments_shortcut {
 //        System.out.println("hi");
 //        ctrl+/
     }
-
-
-
 }
